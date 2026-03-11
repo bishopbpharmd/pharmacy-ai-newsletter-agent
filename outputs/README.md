@@ -1,0 +1,1 @@
+Generated newsletter markdown and structured JSON outputs are written here.

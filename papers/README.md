@@ -1,0 +1,1 @@
+Place input paper PDFs in this directory before running the pipeline.
